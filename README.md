@@ -16,5 +16,9 @@ RTK Query is an advanced data fetching and caching tool, designed to simplify co
 ## ![api-service](https://user-images.githubusercontent.com/32324434/161045485-4e3a427e-d1f5-4e92-abd0-1178d3d6763d.png)
 ## 3 Wrap your app in a Provider
 ## Create Api
-The createApi in rtk query exposes methods like the reducerPath, baseQuery having the fetchBaseQuery method where you define your base url, the endpoints for your endpoints definitions that has the query method that returns a string which will be appended to the baseUrl in your fetchBaseQuery, it also has headers and prepareHeaders to set your header params for authention and authorisation
+The createApi in rtk query exposes methods like the reducerPath, baseQuery having the fetchBaseQuery method where you define your base url, the endpoints for your endpoints definitions that has the query method that returns a string which will be appended to the baseUrl in your fetchBaseQuery, it also has headers and prepareHeaders to set your header params for authention and authorisation.
+Importing create api from @reduxjs/toolkit/query/react means hooks will be auto-generated for you to use in your components
+## Conclusion
+Use your hooks in your component like this
+![component](https://user-images.githubusercontent.com/32324434/161047875-7c8837bd-ac8f-4e78-8cd3-5aa64462fdff.png)
 
