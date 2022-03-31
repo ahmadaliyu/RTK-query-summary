@@ -1,5 +1,7 @@
 # TABLE OF CONTENT
 
+#### Prerequisite [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+
 ### [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/README.md#what-is-rtk-query-1)
 ### [createApi](https://github.com/goodmanfreeman/RTK-query-summary/README.md#create-api)
 ### [fetchBaseQuery](https://github.com/goodmanfreeman/RTK-query-summary/README.md#fetchbasequery-1)
