@@ -5,6 +5,8 @@
 ### [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/README.md#what-is-rtk-query-1)
 ### [Setting up the store](https://github.com/goodmanfreeman/RTK-query-summary/README.md#setting-up-the-store-1)
 ### [createApi](https://github.com/goodmanfreeman/RTK-query-summary/README.md#create-api)
+### [Conclusion](https://github.com/goodmanfreeman/RTK-query-summary/README.md#conclusion)
+
 
 
 ## What is rtk query
