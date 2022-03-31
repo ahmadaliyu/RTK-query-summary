@@ -1,6 +1,6 @@
 # TABLE OF CONTENT
 
- [What is rtk query]("https://github.com/goodmanfreeman/RTK-query-summary/blob/test/README.md##what-is-rtk-query")
+ [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/README.md)
  [createApi]()
  [fetchBaseQuery]()
  [Setting up the store]()
