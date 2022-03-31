@@ -1,6 +1,6 @@
 # TABLE OF CONTENT
 
-#### Prerequisite [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+#### Prerequisites [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started) and [understanding of redux concept and terms](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
 
 ### [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/README.md#what-is-rtk-query-1)
 ### [createApi](https://github.com/goodmanfreeman/RTK-query-summary/README.md#create-api)
