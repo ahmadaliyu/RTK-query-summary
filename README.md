@@ -2,10 +2,10 @@
 
 #### Prerequisites [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started) and [understanding of redux concept and terms](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
 
-### [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/README.md#what-is-rtk-query-1)
-### [Setting up the store](https://github.com/goodmanfreeman/RTK-query-summary/README.md#setting-up-the-store-1)
-### [createApi](https://github.com/goodmanfreeman/RTK-query-summary/README.md#create-api)
-### [Conclusion](https://github.com/goodmanfreeman/RTK-query-summary/README.md#conclusion-1)
+### [What is rtk query](https://github.com/goodmanfreeman/RTK-query-summary/blob/main/README.md#what-is-rtk-query-1)
+### [Setting up the store](https://github.com/goodmanfreeman/RTK-query-summary/blob/main/README.md#setting-up-the-store-1)
+### [createApi](https://github.com/goodmanfreeman/RTK-query-summary/blob/main/README.md#create-api)
+### [Conclusion](https://github.com/goodmanfreeman/RTK-query-summary/blob/main/README.md#conclusion-1)
 
 
 
