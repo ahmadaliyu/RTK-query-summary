@@ -1,7 +1,8 @@
 # TABLE OF CONTENT
-[What is rtk query]
-[(createApi )]
-[(fetchBaseQuery )]
-[(Setting up the store )]
-[(setupListeners )]
+[](What is rtk query)
+[](createApi)
+[](fetchBaseQuery)
+[](Setting up the store)
+[](setupListeners)
+
 
